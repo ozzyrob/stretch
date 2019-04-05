@@ -5,3 +5,5 @@ add
 
 
 to kernel command line on the expert installer (on the advanced page) when using the net installer iso
+
+https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/9.8.0+nonfree/amd64/iso-cd/
