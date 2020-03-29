@@ -1,2 +1,2 @@
 # stretch
-Pressed stuff to setup Debian Strech Linuxcnc
+Preseed stuff to setup Debian Strech Linuxcnc
